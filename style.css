@@ -1,0 +1,17 @@
+/*
+Theme Name: Other Side
+Theme URI: https://example.com/other-side
+Author: Jakub Pilarski
+Author URI: https://example.com
+Description: Custom theme for the Other Side site.
+Version: 0.1.0
+Text Domain: other-side
+*/
+
+:root {
+  --os-font: "Space Grotesk", system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--os-font);
+}
